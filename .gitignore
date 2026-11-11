@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+.env
+DATA/app.db
+DATA/users.txt
+.streamlit/secrets.toml
+practice/
+Week 08*/
+Week 09*/
+Week 10*/
+Week 11*/
+Week 12*/
